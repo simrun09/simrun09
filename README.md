@@ -42,7 +42,7 @@ data science fundamentals.
 
 ## Tools
 
-Python · pandas · scikit-learn · Mistral / Claude / Gemini APIs · Git · Bash
+Python · pandas · scikit-learn · Claude · Git · Bash
 
 ## Contact
 
